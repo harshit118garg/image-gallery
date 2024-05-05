@@ -1,0 +1,79 @@
+@import "./sass/fonts";
+@import "./sass/variables";
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: $fontFamily !important;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  background: $background;
+  color: $error-color;
+}
+
+h1 {
+  font-size: $headingSizeLarge;
+  line-height: 1.1;
+  transition: $transition;
+
+  @media (max-width:544px) {
+    font-size: 0.75 * $headingSizeLarge;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: $error-color;
+}
+
+p {
+  font-size: $textFontSize;
+}
+
+ul>li {
+  list-style: none;
+}
+
+// scrollbar-settings
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #8e8e8e #ffffff;
+}
+
+/* Chrome, Edge and Safari */
+*::-webkit-scrollbar {
+  width: 8px;
+  width: 8px;
+}
+*::-webkit-scrollbar-track {
+  border-radius: 20px;
+  background-color: #ffffff;
+}
+
+*::-webkit-scrollbar-track:hover {
+  background-color: #ffffff;
+}
+
+*::-webkit-scrollbar-track:active {
+  background-color: #ffffff;
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 20px;
+  background-color: #8e8e8e;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background-color: #878787;
+}
+
+*::-webkit-scrollbar-thumb:active {
+  background-color: #8e8e8e;
+}

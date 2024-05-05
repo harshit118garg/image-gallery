@@ -1,0 +1,129 @@
+@import "../../sass/variables.scss";
+
+.pagination-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+
+  .pageChange {
+    flex: 1;
+    display: flex;
+    width: 100%;
+    color: $primary-color;
+    gap: 0.5rem;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+
+    .page-change {
+      align-items: center;
+      background-color: $white;
+      border: 1px solid rgba(0, 0, 0, 0.1);
+      border-radius: 0.25rem;
+      box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+      box-sizing: border-box;
+      color: $Col3;
+      cursor: pointer;
+      display: inline-flex;
+      font-size: 1rem;
+      font-weight: 600;
+      justify-content: center;
+      line-height: 1.25;
+      margin: 0;
+      min-height: 3rem;
+      padding: 0.5rem;
+      position: relative;
+      text-decoration: none;
+      transition: all 250ms;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+      vertical-align: baseline;
+      width: auto;
+
+      &:hover,
+      :focus {
+        border-color: rgba(0, 0, 0, 0.15);
+        box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+        color: rgba(0, 0, 0, 0.65);
+      }
+
+      &:hover {
+        transform: translateY(-1px);
+      }
+
+      &:active {
+        background-color: #f0f0f1;
+        border-color: rgba(0, 0, 0, 0.15);
+        box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+        color: rgba(0, 0, 0, 0.65);
+        transform: translateY(0);
+      }
+    }
+
+    .curr-page {
+      font-size: $textFontSize;
+      font-weight: 700;
+    }
+  }
+
+  .page-size-wrapper {
+    position: relative;
+    display: inline-block;
+
+    select {
+      padding: 0.5rem;
+      font-size: 1rem;
+      border: 1px solid $Col2;
+      border-radius: 5px;
+      appearance: none;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      background-color: $white;
+      cursor: pointer;
+      color: $Col1;
+      width: 200px;
+      height: 100%;
+
+      &:focus {
+        outline: none;
+        border: 2px solid $accent-color;
+      }
+
+      &:hover {
+        border-color: $Col1;
+      }
+
+      &:active {
+        border-color: $hover-color;
+      }
+
+      option {
+        padding: 1rem;
+        background-color: $white;
+        color: $accent-color;
+      }
+
+      @media (max-width: 1024px) {
+        width: 100%;
+      }
+    }
+    &::after {
+      content: "\25BC";
+      position: absolute;
+      color: $error-color;
+      top: 40%;
+      right: 10px;
+      transform: translateY(-50%);
+      pointer-events: none;
+    }
+  }
+
+  @media (max-width: 1024px) {
+    gap: 1rem;
+
+    .pages {
+      justify-content: space-between;
+    }
+  }
+}
