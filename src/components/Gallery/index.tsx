@@ -17,8 +17,6 @@ function Gallery({ images }: GalleryTypes) {
     [images]
   );
 
-  console.log("inside agllery", imageChunks);
-
   return (
     <div className="gallery-wrapper">
       {imageChunks.map((chunk, index) => {

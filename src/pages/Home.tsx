@@ -22,7 +22,7 @@ export const Home = () => {
     (state: RootState) => state?.galleryState
   );
 
-  const { data, isError, isLoading } = !searchQuery
+  const { data, isLoading } = !searchQuery
     ? useGetImagesDataQuery({
         currPageNum,
         imagesPerPage,
@@ -32,8 +32,6 @@ export const Home = () => {
         currPageNum: 1,
         imagesPerPage: 10,
       });
-
-  isError && console.log("isError", isError);
 
   const handleSearchTermChange = (
     event: React.ChangeEvent<HTMLInputElement>
@@ -56,7 +54,6 @@ export const Home = () => {
   };
 
   const setSuggestionQuery = (suggestion: string) => {
-    console.log("suggestion", suggestion);
     setSearchTerm(suggestion);
     dispatch(setSearchQuery(suggestion));
     dispatch(setCurrentPage(1));

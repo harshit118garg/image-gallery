@@ -6,17 +6,12 @@ import { setCurrentPage, setImagesPerPage } from "../../redux/slice";
 import { RootState } from "../../redux/store";
 import Icon from "../../shared/Icon";
 import "./index.scss";
-import { useParams } from "react-router-dom";
 
 export const Pagination = () => {
   const dispatch = useDispatch();
   const { currPageNum, imagesPerPage } = useSelector(
     (state: RootState) => state?.galleryState
   );
-
-  const { page: page = currPageNum, per_page: per_page = imagesPerPage } =
-    useParams();
-  console.log("from parama", { page, per_page });
 
   const goToNextPage = () => {
     const nextPage = currPageNum + 1;
