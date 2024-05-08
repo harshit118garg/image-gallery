@@ -15,22 +15,22 @@ export const Pagination = () => {
 
   const goToNextPage = () => {
     const nextPage = currPageNum + 1;
-    dispatch(setCurrentPage(nextPage));
+    dispatch(setCurrentPage({ currPageNum: nextPage }));
   };
 
   const goToPrevPage = () => {
     const prevPage = currPageNum - 1;
-    dispatch(setCurrentPage(prevPage));
+    dispatch(setCurrentPage({ currPageNum: prevPage }));
   };
 
   const handlePageSizeChange = (
     event: React.ChangeEvent<HTMLSelectElement>
   ) => {
-    dispatch(setImagesPerPage(Number(event.target.value)));
+    dispatch(setImagesPerPage({ imagesPerPage: Number(event.target.value) }));
   };
 
   return (
-    <div className="pagination-wrapper">
+    <div className="pagination-wrapper" data-testId="pagination">
       <div className="pageChange">
         {currPageNum !== 1 && (
           <button className="prev-page page-change" onClick={goToPrevPage}>

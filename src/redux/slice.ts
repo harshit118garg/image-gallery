@@ -4,7 +4,7 @@ import { ApiResponse, SliceInitialState } from "../definations/types";
 // import { LOCAL_URL } from "../definations/constants";
 import { PROD_BASE_URL } from "../definations/constants";
 
-const initialState: SliceInitialState = {
+export const initialState: SliceInitialState = {
   imagesPerPage: 10,
   currPageNum: 1,
   searchQuery: ''
@@ -14,14 +14,14 @@ export const manageImageGalleryDataSlice = createSlice({
   name: 'imageGalleryData',
   initialState,
   reducers: {
-    setImagesPerPage: (state, action: PayloadAction<number>) => {
-      state.imagesPerPage = action.payload
+    setImagesPerPage: (state, action: PayloadAction<{ imagesPerPage: number }>) => {
+      state.imagesPerPage = action.payload.imagesPerPage
     },
-    setCurrentPage: (state, action: PayloadAction<number>) => {
-      state.currPageNum = action.payload
+    setCurrentPage: (state, action: PayloadAction<{ currPageNum: number }>) => {
+      state.currPageNum = action.payload.currPageNum
     },
-    setSearchQuery: (state, action: PayloadAction<string>) => {
-      state.searchQuery = action.payload
+    setSearchQuery: (state, action: PayloadAction<{ searchQuery: string }>) => {
+      state.searchQuery = action.payload.searchQuery
     }
   }
 })
