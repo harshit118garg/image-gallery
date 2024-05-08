@@ -42,22 +42,22 @@ export const Home = () => {
 
   const clearSearchTerm = () => {
     setSearchTerm("");
-    dispatch(setSearchQuery(""));
+    dispatch(setSearchQuery({ searchQuery: "" }));
   };
 
   const handleSearch = () => {
     if (searchTerm) {
-      dispatch(setSearchQuery(searchTerm));
-      dispatch(setCurrentPage(1));
-      dispatch(setImagesPerPage(10));
+      dispatch(setSearchQuery({ searchQuery: searchTerm }));
+      dispatch(setCurrentPage({ currPageNum: 1 }));
+      dispatch(setImagesPerPage({ imagesPerPage: 10 }));
     }
   };
 
   const setSuggestionQuery = (suggestion: string) => {
     setSearchTerm(suggestion);
-    dispatch(setSearchQuery(suggestion));
-    dispatch(setCurrentPage(1));
-    dispatch(setImagesPerPage(10));
+    dispatch(setSearchQuery({ searchQuery: suggestion }));
+    dispatch(setCurrentPage({ currPageNum: 1 }));
+    dispatch(setImagesPerPage({ imagesPerPage: 10 }));
   };
 
   // for local
