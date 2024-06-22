@@ -10,6 +10,7 @@ describe("Home tests", () => {
       })
     ).toHaveTextContent("Image Gallery");
   });
+
   it("should render pagination", () => {
     render(<Home />);
     const paginationElements = screen.getAllByTestId("pagination");

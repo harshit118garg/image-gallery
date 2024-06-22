@@ -29,8 +29,8 @@ export const Home = () => {
       })
     : useGetSearchImageDataQuery({
         searchQuery,
-        currPageNum: 1,
-        imagesPerPage: 10,
+        currPageNum,
+        imagesPerPage,
       });
 
   const handleSearchTermChange = (
@@ -43,6 +43,8 @@ export const Home = () => {
   const clearSearchTerm = () => {
     setSearchTerm("");
     dispatch(setSearchQuery({ searchQuery: "" }));
+    dispatch(setCurrentPage({ currPageNum: 1 }));
+    dispatch(setImagesPerPage({ imagesPerPage: 10 }));
   };
 
   const handleSearch = () => {

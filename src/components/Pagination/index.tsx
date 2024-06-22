@@ -30,7 +30,7 @@ export const Pagination = () => {
   };
 
   return (
-    <div className="pagination-wrapper" data-testId="pagination">
+    <div className="pagination-wrapper" data-testid="pagination">
       <div className="pageChange">
         {currPageNum !== 1 && (
           <button className="prev-page page-change" onClick={goToPrevPage}>

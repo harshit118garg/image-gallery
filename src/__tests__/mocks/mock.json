@@ -1,0 +1,228 @@
+{
+  "page": 1,
+  "per_page": 10,
+  "photos": [
+    {
+      "id": 22601915,
+      "width": 2900,
+      "height": 4350,
+      "url": "https://www.pexels.com/photo/a-window-with-a-view-of-a-city-22601915/",
+      "photographer": "Naro K",
+      "photographer_url": "https://www.pexels.com/@naro-k-670655635",
+      "photographer_id": 670655635,
+      "avg_color": "#343C3F",
+      "src": {
+        "original": "https://images.pexels.com/photos/22601915/pexels-photo-22601915.jpeg",
+        "large2x": "https://images.pexels.com/photos/22601915/pexels-photo-22601915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/22601915/pexels-photo-22601915.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/22601915/pexels-photo-22601915.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/22601915/pexels-photo-22601915.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/22601915/pexels-photo-22601915.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/22601915/pexels-photo-22601915.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/22601915/pexels-photo-22601915.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "A window with a view of a city"
+    },
+    {
+      "id": 22431220,
+      "width": 4608,
+      "height": 3072,
+      "url": "https://www.pexels.com/photo/a-bowl-of-blueberries-on-a-bed-22431220/",
+      "photographer": "Laura Chouette",
+      "photographer_url": "https://www.pexels.com/@laurachouette",
+      "photographer_id": 1117962030,
+      "avg_color": "#E9E8E6",
+      "src": {
+        "original": "https://images.pexels.com/photos/22431220/pexels-photo-22431220.jpeg",
+        "large2x": "https://images.pexels.com/photos/22431220/pexels-photo-22431220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/22431220/pexels-photo-22431220.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/22431220/pexels-photo-22431220.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/22431220/pexels-photo-22431220.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/22431220/pexels-photo-22431220.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/22431220/pexels-photo-22431220.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/22431220/pexels-photo-22431220.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "A bowl of blueberries on a bed"
+    },
+    {
+      "id": 21855089,
+      "width": 2958,
+      "height": 3946,
+      "url": "https://www.pexels.com/photo/tropical-sea-shore-in-black-and-white-21855089/",
+      "photographer": "Lucas Meneses",
+      "photographer_url": "https://www.pexels.com/@lucasmenesesphoto",
+      "photographer_id": 3113705,
+      "avg_color": "#AEAEAE",
+      "src": {
+        "original": "https://images.pexels.com/photos/21855089/pexels-photo-21855089.jpeg",
+        "large2x": "https://images.pexels.com/photos/21855089/pexels-photo-21855089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/21855089/pexels-photo-21855089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/21855089/pexels-photo-21855089.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/21855089/pexels-photo-21855089.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/21855089/pexels-photo-21855089.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/21855089/pexels-photo-21855089.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/21855089/pexels-photo-21855089.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "O paraíso"
+    },
+    {
+      "id": 21768151,
+      "width": 4010,
+      "height": 6387,
+      "url": "https://www.pexels.com/photo/young-woman-standing-by-the-door-in-a-house-21768151/",
+      "photographer": "Fidan Nur",
+      "photographer_url": "https://www.pexels.com/@fidan-nur-721213237",
+      "photographer_id": 721213237,
+      "avg_color": "#57524C",
+      "src": {
+        "original": "https://images.pexels.com/photos/21768151/pexels-photo-21768151.jpeg",
+        "large2x": "https://images.pexels.com/photos/21768151/pexels-photo-21768151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/21768151/pexels-photo-21768151.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/21768151/pexels-photo-21768151.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/21768151/pexels-photo-21768151.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/21768151/pexels-photo-21768151.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/21768151/pexels-photo-21768151.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/21768151/pexels-photo-21768151.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "A woman in a black suit leaning against a door"
+    },
+    {
+      "id": 21656197,
+      "width": 4160,
+      "height": 6240,
+      "url": "https://www.pexels.com/photo/hot-air-balloons-flying-over-an-edge-of-a-desert-city-21656197/",
+      "photographer": "Matteo Roman",
+      "photographer_url": "https://www.pexels.com/@matteo-roman-1151921619",
+      "photographer_id": 1151921619,
+      "avg_color": "#AA9B96",
+      "src": {
+        "original": "https://images.pexels.com/photos/21656197/pexels-photo-21656197.jpeg",
+        "large2x": "https://images.pexels.com/photos/21656197/pexels-photo-21656197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/21656197/pexels-photo-21656197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/21656197/pexels-photo-21656197.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/21656197/pexels-photo-21656197.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/21656197/pexels-photo-21656197.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/21656197/pexels-photo-21656197.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/21656197/pexels-photo-21656197.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Free stock photo of egypt, group of people, hot air balloon"
+    },
+    {
+      "id": 21370890,
+      "width": 4160,
+      "height": 6240,
+      "url": "https://www.pexels.com/photo/smiling-woman-with-black-hair-lying-down-21370890/",
+      "photographer": "Avery Arwood",
+      "photographer_url": "https://www.pexels.com/@avery-arwood-713708816",
+      "photographer_id": 713708816,
+      "avg_color": "#887A6D",
+      "src": {
+        "original": "https://images.pexels.com/photos/21370890/pexels-photo-21370890.jpeg",
+        "large2x": "https://images.pexels.com/photos/21370890/pexels-photo-21370890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/21370890/pexels-photo-21370890.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/21370890/pexels-photo-21370890.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/21370890/pexels-photo-21370890.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/21370890/pexels-photo-21370890.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/21370890/pexels-photo-21370890.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/21370890/pexels-photo-21370890.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Smiling Woman with Black Hair Lying Down"
+    },
+    {
+      "id": 22303826,
+      "width": 3071,
+      "height": 4606,
+      "url": "https://www.pexels.com/photo/minimalismo-22303826/",
+      "photographer": "Eduraw Pro",
+      "photographer_url": "https://www.pexels.com/@edurawpro",
+      "photographer_id": 985234948,
+      "avg_color": "#B5BDBF",
+      "src": {
+        "original": "https://images.pexels.com/photos/22303826/pexels-photo-22303826.jpeg",
+        "large2x": "https://images.pexels.com/photos/22303826/pexels-photo-22303826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/22303826/pexels-photo-22303826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/22303826/pexels-photo-22303826.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/22303826/pexels-photo-22303826.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/22303826/pexels-photo-22303826.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/22303826/pexels-photo-22303826.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/22303826/pexels-photo-22303826.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Minimalismo"
+    },
+    {
+      "id": 21790501,
+      "width": 2634,
+      "height": 3840,
+      "url": "https://www.pexels.com/photo/lights-over-skyscraper-at-night-21790501/",
+      "photographer": "Benjamin Farren",
+      "photographer_url": "https://www.pexels.com/@benjaminfarren",
+      "photographer_id": 5538733,
+      "avg_color": "#1E150E",
+      "src": {
+        "original": "https://images.pexels.com/photos/21790501/pexels-photo-21790501.jpeg",
+        "large2x": "https://images.pexels.com/photos/21790501/pexels-photo-21790501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/21790501/pexels-photo-21790501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/21790501/pexels-photo-21790501.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/21790501/pexels-photo-21790501.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/21790501/pexels-photo-21790501.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/21790501/pexels-photo-21790501.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/21790501/pexels-photo-21790501.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "A tall building lit up at night with yellow lights"
+    },
+    {
+      "id": 21758774,
+      "width": 4672,
+      "height": 7008,
+      "url": "https://www.pexels.com/photo/hot-air-balloons-flying-in-cappadocia-21758774/",
+      "photographer": "Gül Işık",
+      "photographer_url": "https://www.pexels.com/@ekrulila",
+      "photographer_id": 1127278,
+      "avg_color": "#BBA190",
+      "src": {
+        "original": "https://images.pexels.com/photos/21758774/pexels-photo-21758774.jpeg",
+        "large2x": "https://images.pexels.com/photos/21758774/pexels-photo-21758774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/21758774/pexels-photo-21758774.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/21758774/pexels-photo-21758774.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/21758774/pexels-photo-21758774.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/21758774/pexels-photo-21758774.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/21758774/pexels-photo-21758774.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/21758774/pexels-photo-21758774.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": ""
+    },
+    {
+      "id": 21750830,
+      "width": 2000,
+      "height": 3000,
+      "url": "https://www.pexels.com/photo/plants-in-flowerpots-in-greenhouse-21750830/",
+      "photographer": "Simon Migaj",
+      "photographer_url": "https://www.pexels.com/@simonmigaj",
+      "photographer_id": 233851,
+      "avg_color": "#6D6357",
+      "src": {
+        "original": "https://images.pexels.com/photos/21750830/pexels-photo-21750830.jpeg",
+        "large2x": "https://images.pexels.com/photos/21750830/pexels-photo-21750830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/21750830/pexels-photo-21750830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/21750830/pexels-photo-21750830.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/21750830/pexels-photo-21750830.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/21750830/pexels-photo-21750830.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/21750830/pexels-photo-21750830.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/21750830/pexels-photo-21750830.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "In the garden"
+    }
+  ],
+  "total_results": 8000,
+  "next_page": "https://api.pexels.com/v1/curated/?page=2&per_page=10"
+}
